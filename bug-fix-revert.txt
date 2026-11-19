@@ -1,1 +1,3 @@
+Fornesus@MacBook-Pro mcino-Introduction-to-Git-and-GitHub % curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitH
+ub/pulls/13714 | jq -r '.head.repo.clone_url'
 https://github.com/cfornesa/mcino-Introduction-to-Git-and-GitHub.git

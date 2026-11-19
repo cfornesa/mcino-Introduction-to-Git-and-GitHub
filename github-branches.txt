@@ -1,3 +1,5 @@
+Fornesus@MacBook-Pro mcino-Introduction-to-Git-and-GitHub % git branch -vv
   bug-fix-revert f3cd52d Revert the year change
   bug-fix-typo   e592950 [origin/bug-fix-typo] Add merge_branches.txt
-* main           0db6360 [origin/main] Add bug-fix-revert.txt with repo URL
+* main           4cab0bf [origin/main] Add github-branches.txt to track branch changes
+Fornesus@MacBook-Pro mcino-Introduction-to-Git-and-GitHub % 
